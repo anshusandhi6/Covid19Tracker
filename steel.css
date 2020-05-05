@@ -1,0 +1,54 @@
+body {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    font-family: 'Comic Neue', cursive;
+}
+.left
+{
+	
+	text-align: center;
+}
+.social-icon {
+  margin: 30px 10px;
+}
+
+
+.right
+{
+	
+	text-align: center;
+}
+.main
+{
+	height: 500px;
+}
+.tp
+{
+	padding: 100px auto 100px auto;
+}
+.marketing{
+	margin-top: 50px;
+}
+.marketing .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: 400;
+}
+.marketing .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+.white-section {
+  background-color: black;
+  color: white;
+}
+.container-fluid1{
+  padding: 3% 20%;
+  text-align: center;
+}
+html
+{
+	scroll-behavior: smooth;
+}
